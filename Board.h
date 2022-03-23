@@ -11,6 +11,7 @@ public:
 private:
 	bool occupied_same_color(std::string pos);
 	bool is_valid_move(std::string start, std::string end);
+	
 };
 
 #endif
